@@ -1,5 +1,3 @@
-# RLX-HUB-
-DISCORD https://discord.gg/rexRx4br9a
 -- RLX HUB | GUI + Anti-Ban + AutoFarm + ESPs
 
 -- 🛡️ Anti-Ban Proteção
